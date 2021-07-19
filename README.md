@@ -1,6 +1,6 @@
 # Deliverr
 
-Take home test for the Software Engineer-Integrations role at a software Company
+Take home test for the Software Engineer-Integrations role at a Deliverr
 
 Instructions to run :
 Download the source code
