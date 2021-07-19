@@ -5,8 +5,8 @@ A take home test for the Software Engineer-Integrations role at Deliverr
 Instructions to run :
 Download the source code
 
-Activate the environment (make sure you are in Deliverr Folder)\  
- on windows : `\env\Scripts\activate`\
+Activate the environment (make sure you are in Deliverr Folder)  
+ on windows : `\env\Scripts\activate`\  
  on linux : `source env/bin/activate`\
 
 Now sync your database : `python manage.py migrate`
