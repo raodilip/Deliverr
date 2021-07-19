@@ -24,7 +24,7 @@ Quit out of the shell: `quit()`
 Run server :  
 `python manage.py runserver`
 
-Enter `http://127.0.0.1:8000/prd_list/` in your browser ,you will see list of all item in catalog :  
+Enter `http://127.0.0.1:8000/prd_list/` in your browser to see list of all items in catalog :  
 ![GET request to retrieve all items](GetItems.PNG?raw=true)
 
 As you can see you can apply filters to title and isDigital properties  
